@@ -1,0 +1,29 @@
+
+    .p1{
+        background-color:#FF33FF;
+        color:white;
+        padding:10px 15px 10px 15px; /*บน ขวา ล่าง ซ้าย*//*ระยะหว่างระหว่างของเนื้อหา*/
+        margin-bottom:0px;
+        border:solid 2px #FF6699; /*solid,dotted,dashed*/
+        border-radius:solid 2px #FFCC99	
+    }
+    .content{
+        background-color:#48992c;
+        padding:20px 30px 20px 20px;
+        margin-left:10px;
+        margin-right:30px ;
+    }
+    .p2{
+        background-color:#d64f00;
+        color:rgb(240, 0, 0);
+        padding:10px 15px 10px 15px; /*บน ขวา ล่าง ซ้าย*//*ระยะหว่างระหว่างของเนื้อหา*/
+        margin-bottom:0px;
+        border:solid 2px #000000; /*solid,dotted,dashed*/
+        border-radius:solid 2px #FFCC99	
+    }
+    .content{
+        background-color:#89e265;
+        padding:20px 30px 20px 20px;
+        margin-left:10px;
+        margin-right:30px ;
+    }
